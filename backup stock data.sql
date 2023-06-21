@@ -1,7 +1,6 @@
 USE [Stockdata_qdd]
 GO
 
-/****** Object:  StoredProcedure [dbo].[Backup_stock_data]    Script Date: 21/06/2023 10:32:00 PM ******/
 SET ANSI_NULLS ON
 GO
 
